@@ -6,7 +6,7 @@ permalink: /services/
 
 ## What I Help With
 
-Practical, jargon-free tech help — one-on-one, in-person in the South Bay or remote anywhere.
+Every session is one-on-one and built around what you actually need. No generic courses, no overwhelming tech jargon — just practical help with the specific tools, problems, and workflows that are slowing your business down. Available in-person throughout the Beach Cities and South Bay Los Angeles area, or remotely wherever you are.
 
 ---
 
@@ -23,7 +23,7 @@ Passwords, two-factor authentication, phishing awareness, account security, and 
 Connecting the software you already use so it works together — Zapier, Make.com, or just showing you the features you're paying for but not using.
 
 ### Software and Tools Training
-QuickBooks, Canva, Google Analytics, Meta Business Suite, Mailchimp — hands-on training for whatever tools your business runs on.
+Canva, Google Analytics, Meta Business Suite, Mailchimp — hands-on training for whatever tools your business runs on.
 
 ### General Tech Help and Troubleshooting
 Devices, printers, networks, slow computers, "it was working yesterday." In-person for hardware issues, remote for everything else.
@@ -32,7 +32,7 @@ Devices, printers, networks, slow computers, "it was working yesterday." In-pers
 
 ## How Sessions Work
 
-Sessions are typically one to two hours. We focus on whatever is most useful to you — no pre-set agenda. In-person sessions are available across the South Bay (Redondo Beach, Hermosa Beach, Manhattan Beach, Torrance, and surrounding areas). Remote sessions run on Zoom.
+Sessions are typically one to two hours. We focus on whatever is most useful to you — no pre-set agenda. In-person sessions are available across the South Bay Los Angeles area (Redondo Beach, Hermosa Beach, Manhattan Beach, Torrance, and surrounding areas). Remote sessions run on Zoom.
 
 ---
 
@@ -40,9 +40,9 @@ Sessions are typically one to two hours. We focus on whatever is most useful to 
 
 | Service | Rate |
 |---|---|
-| Hourly (remote) | $[RATE]/hr |
-| Hourly (in-person) | $[RATE]/hr |
-| Monthly retainer | $[RATE]/mo |
+| Hourly (remote) | $100/hr |
+| Hourly (in-person) | $120/hr |
+| Monthly retainer | Starting at $400/mo |
 
 *Packages and multi-session bundles available — [contact me](/contact/) to discuss.*
 

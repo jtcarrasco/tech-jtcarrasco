@@ -2,7 +2,7 @@
 # Site Settings
 title: Jason Carrasco | Tech Training
 logo: '/assets/logo_header.png'
-description: Practical tech training for South Bay small businesses and individuals. In-person and remote.
+description: Practical tech training for South Bay Los Angeles small businesses and individuals. In-person and remote.
 color_scheme: auto
 
 
@@ -24,7 +24,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Jason
-  author__bio: I help South Bay small business owners get comfortable with the technology that runs their business — from AI tools and cloud setup to cybersecurity basics and day-to-day software. In-person in the South Bay or remote anywhere.
+  author__bio: I help South Bay Los Angeles small business owners get comfortable with the technology that runs their business — from AI tools and cloud setup to cybersecurity basics and day-to-day software. In-person in the South Bay LA area or remote anywhere.
 
 social:
 - {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/jtcarrasco/"}
@@ -35,7 +35,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Tech training that actually makes sense.
-  hero__description: I help South Bay small business owners get comfortable with the technology that runs their business. Whether you need help with AI tools, securing your accounts, setting up your team on Google Workspace, or just figuring out why the printer won't work — I can help. In-person in the South Bay or remote, on your schedule.
+  hero__description: Technology should work for your business, not slow it down. I help small businesses across the Beach Cities and South Bay Los Angeles get comfortable with their digital tools — whether that means adopting AI, securing sensitive data, optimizing Google Workspace, or troubleshooting everyday hardware and software issues. Flexible, one-on-one support available in-person or remotely, on your schedule.
 
 
 #-------------------------------

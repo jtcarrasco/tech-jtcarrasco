@@ -9,7 +9,7 @@ image: '/assets/profile/jtc_profile_pic.webp'
 
 I've been building and maintaining websites professionally for over 15 years, working with small businesses, school districts, and organizations across Los Angeles. Most of that time has been spent at the intersection of design, development, and figuring out why something that worked yesterday doesn't work today.
 
-I'm based in Redondo Beach and work with clients across the South Bay — in person or remotely, depending on what makes more sense for the project.
+I'm based in Redondo Beach and work with clients across the South Bay Los Angeles area — in person or remotely, depending on what makes more sense for the project.
 
 ## Why Tech Training?
 
