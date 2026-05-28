@@ -1,0 +1,77 @@
+#-------------------------------
+# Site Settings
+title: Jason Carrasco | Tech Training
+logo: '/assets/logo_header.png'
+description: Practical tech training for South Bay small businesses and individuals. In-person and remote.
+color_scheme: auto
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Jason
+  author__bio: I help South Bay small business owners get comfortable with the technology that runs their business — from AI tools and cloud setup to cybersecurity basics and day-to-day software. In-person in the South Bay or remote anywhere.
+
+social:
+- {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/jtcarrasco/"}
+- {icon: "fa-solid fa-envelope", link: "/contact/"}
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Tech training that actually makes sense.
+  hero__description: I help South Bay small business owners get comfortable with the technology that runs their business. Whether you need help with AI tools, securing your accounts, setting up your team on Google Workspace, or just figuring out why the printer won't work — I can help. In-person in the South Bay or remote, on your schedule.
+
+
+#-------------------------------
+# Testimonials Section
+testimonial__title: What Clients Say
+testimonial__description:
+
+testimonial__items:
+  - name: "Kristi Marquez"
+    image: "/assets/clients/kristi.webp"
+    designation: "Business Owner | DAS Beergarden"
+    link: "https://www.linkedin.com/in/kristimarquez/"
+    content: "I don't think I've ever been able to call a website redesign easy before working with Jason. He recently overhauled my company's site and the process was seamless. He listened to our goals and implemented every one of them on the first attempt, noticed potential roadblocks, and made suggestions that have already proven their worth."
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: mzzjgdkk
+  description: Ready to get started or just have a question? Send a message and I'll get back to you within one business day.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-G2Y6EGV8Q6
