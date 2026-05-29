@@ -28,7 +28,7 @@ That's what I help with. Not lectures. Not overwhelming manuals. Just practical,
 
 ## Outside of Work
 
-I live in Redondo Beach with my wife Margot, daughter Petra, and our cats and dogs. I'm an avid music collector, science fiction reader, and I take long walks on the beach with the dog. Not ironically.
+I live in Redondo Beach with my wife Margot, daughter Petra, and our cat Lola and dog Angel. I'm an avid music collector and science fiction reader. You can usually find me walking the esplanade, drinking coffee at one or all of Redondo's coffee shops, or frequenting Select Beer for a pint.
 
 ---
 
