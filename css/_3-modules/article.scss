@@ -39,6 +39,7 @@
 
 .article-tags__box {
   display: flex;
+  flex-wrap: wrap;
   margin-bottom: 8px;
 
   .article__tag {
